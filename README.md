@@ -1,6 +1,6 @@
 # Objectif NCLC — entraînement gratuit TCF Canada (expression orale et écrite)
 
-Site : https://vread-corp.github.io/tcf-canada-entrainement/ (FR) · https://vread-corp.github.io/tcf-canada-entrainement/en/ (EN)
+Site : https://outils.vread.fr/tcf-canada-entrainement/ (FR) · https://outils.vread.fr/tcf-canada-entrainement/en/ (EN)
 
 Pack gratuit : format officiel des tâches (source FEI), guide du temps, 42 sujets **originaux**, table IRCC des notes vers les
 NCLC et grilles d'auto-évaluation. Un produit de READ FRANCE SAS.
