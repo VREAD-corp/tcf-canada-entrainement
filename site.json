@@ -1,5 +1,7 @@
 {
   "repo": "VREAD-corp/tcf-canada-entrainement",
+  "origin": "https://tcf-canada.jalonel.com",
+  "base": "/",
   "brand": "Objectif NCLC",
   "logo_text": "Objectif <span>NCLC</span>",
   "lang": "fr",
@@ -46,7 +48,7 @@
       "home": "",
       "nav_label": "Navigation principale",
       "switch": "Français",
-      "footer_product": "Un produit de READ FRANCE SAS · Contenus sous licence CC BY 4.0",
+      "footer_product": "<a href=\"https://jalonel.com/\">Une marque Jalonel</a> · Contenus sous licence CC BY 4.0",
       "footer_links": [
         [
           "Mentions légales",
@@ -73,7 +75,7 @@
       "home": "en/",
       "nav_label": "Main navigation",
       "switch": "English",
-      "footer_product": "A product of READ FRANCE SAS · Content licensed CC BY 4.0",
+      "footer_product": "<a href=\"https://jalonel.com/en/\">A Jalonel brand</a> · Content licensed CC BY 4.0",
       "footer_links": [
         [
           "Legal notice (FR)",
