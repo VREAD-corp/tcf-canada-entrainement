@@ -10,7 +10,7 @@ NCLC et grilles d'auto-évaluation. Une marque Jalonel (Jalonel est une marque d
 **Non officiel** : non affilié à France Éducation international (FEI) ni à IRCC. TCF est une marque de France Éducation
 international. Aucun sujet d'examen réel n'est utilisé ni accepté dans ce dépôt (les sujets sont confidentiels).
 
-Téléchargement gratuit (GitHub Releases) : `pack-entrainement-tcf-canada-expression.pdf`
+Téléchargement gratuit (servi par le site, `/telechargements/`) : `pack-entrainement-tcf-canada-expression.pdf`
 
 Version payante (pass corrigé par IA, 29 $ CA / 30 jours) : **pas encore disponible**, aucun paiement possible.
 
@@ -35,8 +35,8 @@ Le site est servi à la racine `/` de `https://tcf-canada.jalonel.com/` (origine
 IndexNow `5be19f56d46ca3d2553bee28ebfa8edd.txt` à la racine de `_site/`.
 
 ```sh
+npm i && node scripts/make_pdf.mjs   # PDF dans dist/, copiés par build.py dans _site/telechargements/
 python3 build.py && python3 tests/test_site.py
-npm i && node scripts/make_pdf.mjs
 ```
 
-Contenus : CC BY 4.0. Code : MIT. Signaler une erreur : onglet Issues (tickets publics, aucune donnée personnelle).
+Contenus : CC BY 4.0. Code : MIT. Contact et signalement d'erreur : contact@jalonel.com.
